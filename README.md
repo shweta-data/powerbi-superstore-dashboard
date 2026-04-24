@@ -1,13 +1,13 @@
-# 📊 Power BI Sales Dashboard
+#  Power BI Sales Dashboard
 
-## 🔷 Project Overview
+##  Project Overview
 
 This project is a Power BI dashboard that analyzes sales performance across different categories, regions, and time periods.
 It helps in identifying trends, top-performing products, and key business insights.
 
 ---
 
-## 🔷 📁 Files Included
+##  Files Included
 
 * Power BI Dashboard File (.pbix)
 * Dashboard Screenshots
@@ -15,13 +15,13 @@ It helps in identifying trends, top-performing products, and key business insigh
 
 ---
 
-## 🔷 📸 Dashboard Preview
+##  Dashboard Preview
 
-(Add your screenshot here)
+
 
 ---
 
-## 🔷 🔍 Key Insights
+##  Key Insights
 
 * Sales performance by category
 * Top-selling products
@@ -30,7 +30,7 @@ It helps in identifying trends, top-performing products, and key business insigh
 
 ---
 
-## 🔷 🛠 Tools & Technologies Used
+##  Tools & Technologies Used
 
 * Power BI
 * Data Modeling
@@ -39,7 +39,7 @@ It helps in identifying trends, top-performing products, and key business insigh
 
 ---
 
-## 🔷 📈 Features
+##  Features
 
 * Interactive filters (slicers)
 * Dynamic visuals
@@ -47,7 +47,7 @@ It helps in identifying trends, top-performing products, and key business insigh
 
 ---
 
-## 🔷 🚀 How to Use
+##  How to Use
 
 1. Download the `.pbix` file
 2. Open it in Power BI Desktop
@@ -55,13 +55,11 @@ It helps in identifying trends, top-performing products, and key business insigh
 
 ---
 
-## 🔷 📌 Conclusion
+##  Conclusion
 
 This dashboard provides meaningful insights into sales data and helps in better decision-making.
 
 ---
 
-## 🔷 🙌 Author
 
-shweta pandey
 
